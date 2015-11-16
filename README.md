@@ -1,3 +1,5 @@
-# playing-with-git
+Playing with GitHub
 
-Learning how to use git.
+=======
+
+Learning how to use GitHub.
